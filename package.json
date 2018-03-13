@@ -1,0 +1,28 @@
+{
+  "name": "digital_resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwave317/digital_resume.git"
+  },
+  "keywords": [
+    "ken",
+    "coppola",
+    "javascript",
+    "developer"
+  ],
+  "author": "Ken Coppola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwave317/digital_resume/issues"
+  },
+  "homepage": "https://github.com/mwave317/digital_resume#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
